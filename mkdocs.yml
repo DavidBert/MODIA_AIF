@@ -26,7 +26,7 @@ nav:
     - Recommender systems: 
       - Course and practical session: rec_sys/rec_sys.md
   #     - Quizz: rec_sys/quizz.md
-      - Project: rec_sys/rec_sys.md
+      # - Project: rec_sys/rec_sys.md
   #   - Introduction to Reinforcement Learning:
   #     -  Course and practical session: rl/rl.md
   #     -  Quizz: rl/quizz.md
@@ -40,7 +40,7 @@ nav:
   #     - Quizz: nlp/quizz.md
   #   #   - Project: nlp.md
   # - Project:
-  #   - Help on project: project/Docker_compose.md
+    - Help on project: project/Docker_compose.md
   #   - Project evaluation: project/Assignment.md
   # - Schedule: schedule.md
   #- Evaluation: evaluation.md
