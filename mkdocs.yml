@@ -39,7 +39,7 @@ nav:
   #     - Course and practical session: nlp/nlp.md
   #     - Quizz: nlp/quizz.md
   #   #   - Project: nlp.md
-  # - Project:
+  - Project:
     - Help on project: project/Docker_compose.md
   #   - Project evaluation: project/Assignment.md
   # - Schedule: schedule.md
