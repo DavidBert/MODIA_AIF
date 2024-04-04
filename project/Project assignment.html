@@ -121,6 +121,14 @@
 <li>
     <a href="Docker_compose.html" class="dropdown-item">Help on project</a>
 </li>
+                                    
+<li>
+    <a href="XAI_project.html" class="dropdown-item">Project XAI</a>
+</li>
+                                    
+<li>
+    <a href="Assignment.md" class="dropdown-item">Project evaluation</a>
+</li>
                                 </ul>
                             </li>
                         </ul>
@@ -160,22 +168,20 @@
 
 <h1 id="project-assignment">Project assignment</h1>
 <p>You now have finished the course. Congratulations!<br />
-This class was split in 5 different sections.<br />
+This class was split in 4 different sections.<br />
 I tried to make the project assignment a combination of the different sections.<br />
 You had to build a recommender system for movies first based on movie Posters and then based on movie plots and provide a webapp to use it.<br />
 This project was supposed to cover the first 3 sections of the course, being the development and deployment of an AI model, recommendation systems and natural language processing.<br />
-Since I saw that some of you were still struggling with the deployment part, I decided to ease the second part of the project assignment.
-I provided you with a pretrained reinforcement learning agent and you have to build an XAI tool to explain its decisions.</p>
+The last part of the project is supposed to cover the last section of the course, the explainability of AI models. All the details are provided in the <a href="XAI_project.html">XAI project</a> page.</p>
 <p>For the first part of your project, you are suppose to invite me (DavidBert) to a <strong>private Github repository</strong> that contains all the code and Dockerfiles needed to run your project.<br />
 You are also supposed to provide a Docker compose file that allows to run your project.<br />
 <strong>I do not want to see any dataset, model weights, pickle files or annoy indexes in your repository that weights more than 100MB.<br />
-Instead of that I propose that you store them on a shared Google Drive provide in your readme file a link to download them.<br />
-I will manually download them and just extract the zip file in the root directory of your project.</strong><br />
+Instead of that I propose that you store them on a shared Google Drive and use <code>gdown</code> within your docker file to download all files need for your application.</strong><br />
 This means that if you worked correctly on the project, I should be able to run it with a single command: <code>docker-compose up</code>.<br />
 If the project is not working, I will not try to fix it, I will just grade it as it is so make sure that it is working before submitting it ;-).<br />
 Concerning the last part of the project, you are supposed to provide a notebook with your code and explanations. The notebook should be self-sufficient, and should be able to be run without to much effort.<br />
 I want to be able to run your notebook directly on Google Colab without modifying it.  </p>
-<p><strong>Finally, the project is due on February 2nd at 23:59 for INSA students and march 3rd at 23:59 for Valdom students.</strong> (INSA students were supposed to work in groups while Valdom students were supposed to work alone that is why the deadline is different).
+<p>__Finally, the project is due on Mai 3rd at 23:59 __
 Send me an e-mail when you are done with the link to your repository to verify that everything is ok.
 I won't accept any project after the deadline no matter what the reason is so make sure to finish it on time.</p>
 <p>Good luck with your exams and good luck with your project!</p></div>
