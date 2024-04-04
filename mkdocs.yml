@@ -41,6 +41,8 @@ nav:
   #   #   - Project: nlp.md
   - Project:
     - Help on project: project/Docker_compose.md
+    - Project XAI: project/XAI_project.md
+    - Project evaluation: project/Assignment.md
   #   - Project evaluation: project/Assignment.md
   # - Schedule: schedule.md
   #- Evaluation: evaluation.md
