@@ -1,5 +1,5 @@
 ---
-modified: 2024-04-04T07:14:06.220Z
+modified: 2024-04-04T08:40:40.770Z
 title: Project assignment
 ---
 
@@ -21,7 +21,7 @@ If the project is not working, I will not try to fix it, I will just grade it as
 Concerning the last part of the project, you are supposed to provide a notebook with your code and explanations. The notebook should be self-sufficient, and should be able to be run without to much effort.  
 I want to be able to run your notebook directly on Google Colab without modifying it.  
 
-__Finally, the project is due on Mai 3rd at 23:59 __
+__Finally, the project is due on Mai 3rd at 23:59__
 Send me an e-mail when you are done with the link to your repository to verify that everything is ok.
 I won't accept any project after the deadline no matter what the reason is so make sure to finish it on time.
 
